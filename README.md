@@ -48,4 +48,32 @@
 ## 📅 Roadmap
 
 - [x] Load and clean financial data (CSV)
-- [x] Basic ex
+- [x] Basic expense categorizer (LogReg / SVM)
+- [x] GPT-powered Q&A with RAG
+- [ ] Forecasting with Prophet
+- [ ] Budget violation alerts (agent logic)
+- [ ] Hallucination detection module
+- [ ] UI polish + Deployment
+
+---
+
+## 🧾 Sample Questions It Can Answer
+
+- “How much did I spend on food last month?”
+- “Which category increased the most this year?”
+- “Can you forecast my rent + bills for next month?”
+- “What can I cut to save ₹5,000 more next month?”
+
+---
+
+## 🙌 Inspiration
+
+I’m building this as a tracker to help people to track there finances and help me  to master LLMs, retrieval systems, agentic reasoning, and ML — all while solving a real-world problem that affects everyone: **money management**.
+
+---
+
+## 📬 Contact / Connect
+
+- 🧠 AI Engineering Journal: Coming Soon
+- 🧰 Built with ❤️ by Agarim Karnwal
+
